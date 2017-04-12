@@ -1,0 +1,98 @@
+.header h3{
+    margin-top: 15px;
+}
+
+ul li a{
+    color: lightslategray;
+}
+
+.img-responsive{
+    width: 100%;
+}
+
+.thirdheading a{
+    color: dodgerblue;
+}
+
+.we{
+    border-bottom: 1px solid gray;
+}
+
+.we .col-md-4{
+     padding-bottom: 25px;
+}
+
+.slide{
+    position: relative;
+    margin-top: -25px;
+}
+nav .pre{
+    position: absolute;
+    top: 45%;
+    left: 25%;
+}
+
+nav .next{
+    position: absolute;
+     top: 45%;
+    left: 72%;
+}
+
+.pic{
+    margin-top: 20px;
+}
+
+.thumbnail{
+    height: 180px;
+    text-align: center;
+}
+
+.first a{
+    background-color: mediumseagreen;
+}
+
+.second a{
+    background-color: lightcoral;
+}
+
+.third a{
+    background-color: dodgerblue;
+}
+
+.pic .col-md-4{
+    position: relative;
+}
+
+.thumbnail p{
+    color: black;
+    position: absolute;
+    font-size: 25px;
+    left: 90px;
+    top:70px;
+}
+
+.footer{
+    height: 180px;
+    color: white;
+    background-color: black;
+}
+
+.foot p{
+    font-size: 11px;
+    margin-right: 40px;
+}
+
+.social h5{
+    margin: 25px 0;
+}
+
+.about h5{
+    margin: 25px 0;
+}
+
+.about p{
+    font-size: 11px;
+    margin-right: 40px;
+}
+
+
